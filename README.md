@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manasTiwari-IR](https://github.com/manasTiwari-IR)
 
-- 💬 Ask me about **React, Node.js, MongoDB, Express, Tailwind CSS**
+- 💬 Ask me about **React, Node.js, MongoDB, Express, Tailwind CSS, DSA**
 
 - 📫 How to reach me **manastiwariboss@gmail.com**
 
