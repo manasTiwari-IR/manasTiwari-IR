@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Node.js, MongoDB, Express, Tailwind CSS, DSA, Typescript, Python**
 
-- 📫 How to reach me **manastiwariboss@gmail.com**
+- 📫 How to reach me **manastiwari.personal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
